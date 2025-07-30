@@ -7,6 +7,7 @@ This is a test software for the operation of joysticks for heavy equipment using
 ## Requirements
 * Microsoft Visual Studio Community Edtion
 * .NET Framework 4
+* Install PCan Driver
 
 ## Getting Started
 After downloading the source, you can compile it using visual studio.
